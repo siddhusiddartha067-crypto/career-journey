@@ -1,0 +1,34 @@
+CAREER JOURNEY - ENGINEERING STUDENT PORTFOLIO REPORT
+
+Name: Siddhartha
+College: Jain Institute of Technology Davangere
+Branch: Computer Science & Engineering
+Year: 2nd Year (3rd Semester)
+Target Role: Software Development Engineer (SDE 1)
+
+GitHub: github.com/siddartha Siddhu
+LinkedIn: linkedin.com/siddartha Siddhu
+
+--- LEARNING PROGRESS ---
+Roadmap Completion: 0% (0 of 12 steps)
+DSA Problems Solved: 10 of 35
+Daily Tasks Finished: 2
+Current Learning Streak: 7 days
+
+--- TECHNICAL SKILLS ---
+- C++ (Advanced)
+- JavaScript / TypeScript (Intermediate)
+- React.js (Intermediate)
+- Python (Intermediate)
+- Data Structures & Algorithms (Intermediate)
+- Git & GitHub (Advanced)
+- SQL & PostgreSQL (Beginner)
+- Tailwind CSS (Advanced)
+
+--- COMPLETED PROJECTS ---
+- AlgoVisualizer - Interactive Algorithm & Graph Simulator:
+  An interactive web tool that step-by-step visualizes pathfinding algorithms
+  (Dijkstra, A*, BFS, DFS) and sorting routines (Quick Sort, Merge Sort)
+  with customizable speed and obstacle walls.
+
+Generated via Career Journey Student App.
